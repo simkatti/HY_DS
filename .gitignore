@@ -1,0 +1,10 @@
+stopwords-en.txt
+pos.text
+neg.text
+Into2DS.odt
+Automotive_5.json
+.~lock.Into2DS.odt#
+db/
+.venv
+.ipynb_checkpoints
+
