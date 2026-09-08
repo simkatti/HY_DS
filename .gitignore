@@ -7,4 +7,8 @@ Automotive_5.json
 db/
 .venv
 .ipynb_checkpoints
+train_out.csv
+train.csv
+train.json
+Intro2DS.pdf
 
